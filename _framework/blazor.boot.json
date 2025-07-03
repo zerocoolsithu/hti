@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Lottery",
   "resources": {
-    "hash": "sha256-kpUT2PsCvqAx8cfWipk4APKQ0PuT9lmwqoJ2Yc470PA=",
+    "hash": "sha256-Q2M0jKTAF1yZHrUuV6hzQM7Q7rWYsWOgSKVvPzoqJZY=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-tsDD2k/BNc54cjNzoIjTWQ36Xh6o4HqWwZtKFk+Q/dk="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.js": "sha256-nlm9ZX+9Z8SHWuCfVhHT5pkK9QzTgBn3opfL6mMas20="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-YztUiCjesDCY8Hb6XxB0XrUkqveAomSmsGT/wefalaI="
+      "dotnet.native.wasm": "sha256-Uyc65MLZSxK5vkwxJrCAVrbAmeFE+dpewcEVcQsVNB4="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Lottery.wasm": "sha256-Y0kPR+7JJdxkd3Hc9mjdIDyoAO3apWDx2T92UqNYSIA=",
+      "Lottery.wasm": "sha256-jlqwNJTXemZKqS8fKrEdZp4IEh+NJEVFBmiTP7X0MU0=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-8vokVC3sloxqLFwTHwZI4GvZc3GxMys+9PolvPQCwHI=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-9fWyKv+ZbgsutFm1gZMHrZ+lhDhrBaI6acwvZJEQbb8=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-6PEl6/nnYnotH2HQ52vtZYYdSF762zjmGjthW4PU8k8=",
