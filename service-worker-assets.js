@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "jeUWhM3v",
+  "version": "MLWQiTj/",
   "assets": [
     {
       "hash": "sha256-GE6EZXWvOeFF0VRgLIL0Upfhfyzm6sZiTX6ng8LXxVw=",
       "url": "Lottery.styles.css"
     },
     {
-      "hash": "sha256-Y0kPR+7JJdxkd3Hc9mjdIDyoAO3apWDx2T92UqNYSIA=",
+      "hash": "sha256-jlqwNJTXemZKqS8fKrEdZp4IEh+NJEVFBmiTP7X0MU0=",
       "url": "_framework/Lottery.wasm"
     },
     {
@@ -134,7 +134,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-jCSDxyOdPR3e/thfZsSeqt6rO8V0WMA6p8m0Nr3rb80=",
+      "hash": "sha256-u+gW6YS9zZC4rgHgKuVuIJ7e/hukTpMenV8RbChOcMM=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -150,7 +150,7 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.js"
     },
     {
-      "hash": "sha256-YztUiCjesDCY8Hb6XxB0XrUkqveAomSmsGT/wefalaI=",
+      "hash": "sha256-Uyc65MLZSxK5vkwxJrCAVrbAmeFE+dpewcEVcQsVNB4=",
       "url": "_framework/dotnet.native.wasm"
     },
     {
